@@ -1,6 +1,6 @@
 ### Hi All 👋
 
-🔭 I’m Thierry, Software Engineer 🎓
+I’m Thierry, Software Engineer 🎓
 
 > I'm interested in computer science, problem-solving, science, and technology. In free time, I enjoy reading books and listening to music and podcasts.
 
@@ -14,9 +14,9 @@
 
 **🛠 Tech Stack & Tools**
 
-- 💻   JS | TS | Python
+- 💻   JavaScript | TypeScript | Python
 - 🌐   HTML | CSS | TailwindCSS | SCSS
-- 🛢   MySQL | MongoDB | PostgeSQL | sqlite
+- 🛢   MySQL | MongoDB | PostgeSQL | sqlite3
 - 🔧   Git | GitHub | GitFlow | Jira | Agile | Docker
 
 
